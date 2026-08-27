@@ -50,15 +50,15 @@
   "Bonuses": [
     {
       "link": "",
-      "logo": "",
+      "logo": "/uploads/0bf2a360f50e1f070159c21cef70d4fc.webp",
       "name": "1",
       "Name": "1"
     }
   ],
   "Reviews": null,
   "FAQ": null,
-  "_generated_at": "2026-08-27T12:33:15.625Z",
+  "_generated_at": "2026-08-27T13:27:53.309Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-08-27T12:33:16.230Z",
-  "_deploy_trigger": "hkgbj"
+  "_last_deploy": "2026-08-27T13:27:53.880Z",
+  "_deploy_trigger": "jjoam"
 }
